@@ -2,7 +2,7 @@
 
 Saya tertarik pada pengembangan web dan pembuatan produk digital yang bermanfaat. Saya terbuka untuk kesempatan magang dan pekerjaan freelance. Di waktu luang, saya juga membuat proyek personal untuk mengeksplorasi ide dan mencoba hal baru, termasuk otomasi sederhana.
 
-**Portofolio:** [Kunjungi situs saya]([https://arielekaputra.vercel.app])  
+**Portofolio:** [Kunjungi situs saya](https://arielekaputra.vercel.app/)
 **Lokasi:** Yogyakarta, Indonesia
 **Kontak:** [Email](mailto:arileka041@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-ariel-e-814167353/)
 
